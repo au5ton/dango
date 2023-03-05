@@ -1,0 +1,31 @@
+{
+  "name": "@au5ton/dango",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "dist/",
+  "exports": {
+    ".": "./dist/index.library.js",
+    "./browser": "./dist/index.browser.js"
+  },
+  "types": "types/index.d.ts",
+  "files": [
+    "dist",
+    "types"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "rimraf -g dist/**",
+    "build": "tsc && npm run build:library && npm run build:browser",
+    "build:library": "vite build",
+    "build:browser": "vite build --config vite.config.browser.ts"
+  },
+  "dependencies": {
+    "lit": "^2.6.1"
+  },
+  "devDependencies": {
+    "rimraf": "^4.3.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0"
+  }
+}
