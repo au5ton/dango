@@ -5,12 +5,44 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + Lit + TS</title>
-    <link rel="stylesheet" href="./src/index.css" />
-    <script type="module" src="/src/my-element.ts"></script>
+    <link rel="stylesheet" href="./index.css" />
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5/dist/photoswipe.css" /> -->
+    <script type="module" src="/src/index.ts"></script>
   </head>
   <body>
     <my-element>
       <h1>Vite + Lit</h1>
     </my-element>
+    <style>
+      dango-photoswipe-album::part(album) {
+        flex-wrap: wrap;
+      }
+      dango-photoswipe-album::part(image) {
+        max-height: 300px;
+      }
+    </style>
+    <dango-photoswipe-album>
+      <dango-photoswipe-album-item src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+      <dango-photoswipe-album-item src="https://picsum.photos/500"></dango-photoswipe-album-item>
+    </dango-photoswipe-album>
+    <p>
+      <ul>
+        <li>AAA</li>
+        <li>BBB <span>Foo</span></li>
+      </ul>
+    </p>
   </body>
 </html>

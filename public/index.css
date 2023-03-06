@@ -29,6 +29,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  flex-direction: column;
 }
 
 @media (prefers-color-scheme: light) {
@@ -37,3 +38,7 @@ body {
     background-color: #ffffff;
   }
 }
+
+/* img {
+  max-width: 400px;
+} */
