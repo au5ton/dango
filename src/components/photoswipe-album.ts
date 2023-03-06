@@ -114,6 +114,10 @@ export class PhotoAlbum extends LitElement {
       }
     }
 
+    :host {
+      display: inline-block;
+    }
+
     :host::part(album) {
       flex-wrap: 'nowrap';
     }
@@ -130,6 +134,7 @@ export class PhotoAlbum extends LitElement {
       padding: 0.5rem;
       border-radius: 15px;
       max-width: 100%;
+      margin: 0;
     }
 
 
