@@ -40,47 +40,6 @@ export class PhotoAlbum extends LitElement {
   @state()
   images: ImageData[] = []
 
-  // async processSlottedChild(child: Element) {
-  //   console.log('process slotted child', child, child.parentElement)
-  //   let outerElement: Element| undefined = undefined;
-  //   let size: ImageSize | undefined = undefined;
-  //   // If an anchor element was inserted, the real image url is stored in an attribute and the thumbnail is a child
-  //   if (child.tagName === 'A') {
-  //     const src = child.getAttribute('data-pswp-src') ?? child.getAttribute('href');
-  //     if (src) {
-  //       const img = new Image();
-  //       img.src = src;
-  //       // If no thumbnail exists, create it
-  //       if (child.querySelector('img') === null) {
-  //         child.appendChild(img);
-  //       }
-  //       size = await getImageSize(img);
-  //       outerElement = child;
-  //     }
-  //   }
-  //   // If an img element was inserted, this is the real image and we need to appropriately wrap it
-  //   else if (child.tagName === 'IMG') {
-  //     const img = child as HTMLImageElement;
-  //     size = await getImageSize(img)
-  //     const id = img.getAttribute(CHILD_ID_ATTR);
-  //     if (id) {
-  //       const a = document.createElement('a')
-  //       a.setAttribute('data-pswp-src', img.src);
-  //       a.setAttribute(CHILD_ID_ATTR, id);
-  //       outerElement = a;
-  //       img.insertAdjacentElement('afterend', a);
-  //       a.appendChild(img);
-  //       img.removeAttribute(CHILD_ID_ATTR)
-  //     }
-  //   }
-
-  //   // Set the necessary attributes for PhotoSwipe to catch on
-  //   if (outerElement && size) {
-  //     outerElement.setAttribute(PS_WIDTH_ATTR, `${size.naturalWidth}`);
-  //     outerElement.setAttribute(PS_HEIGHT_ATTR, `${size.naturalHeight}`);
-  //   }
-  // }
-
   async processSlottedChild(child: PhotoAlbumItem) {
     const id = child.id;
     const src = child.src;
@@ -97,16 +56,11 @@ export class PhotoAlbum extends LitElement {
   }
 
   handleSlotChange() {
-    console.log('handle slot change')
+    //console.log('handle slot change')
     // Ensure all children of slot have a unique ID
-    //const children = Array.from(this.querySelectorAll(CHILD_SELECTOR));
-    //const children = Array.from(this.children).filter(e => e.tagName === 'IMG');
     const children = Array.from(this.children).filter(e => e.tagName.toLowerCase() === 'dango-photoswipe-album-item') as PhotoAlbumItem[];
     children.forEach(child => {
       child.id = crypto.randomUUID();
-      // if (child.getAttribute(CHILD_ID_ATTR) === null) {
-      //   child.setAttribute(CHILD_ID_ATTR, crypto.randomUUID());
-      // }
     })
     Promise.allSettled(children.map(e => this.processSlottedChild(e)));
     this.createLightbox();
