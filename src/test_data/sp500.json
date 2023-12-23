@@ -1,0 +1,4026 @@
+[
+  {
+    "symbol": "MMM",
+    "security": "3M",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Conglomerates",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1902"
+  },
+  {
+    "symbol": "AOS",
+    "security": "A. O. Smith",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "2017-07-26T00:00:00.000Z",
+    "founded_year": "1916"
+  },
+  {
+    "symbol": "ABT",
+    "security": "Abbott",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1888"
+  },
+  {
+    "symbol": "ABBV",
+    "security": "AbbVie",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2012-12-31T00:00:00.000Z",
+    "founded_year": "2013 (1888)"
+  },
+  {
+    "symbol": "ACN",
+    "security": "Accenture",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "IT Consulting & Other Services",
+    "date_added": "2011-07-06T00:00:00.000Z",
+    "founded_year": "1989"
+  },
+  {
+    "symbol": "ADBE",
+    "security": "Adobe Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "1997-05-05T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "AMD",
+    "security": "Advanced Micro Devices",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2017-03-20T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "AES",
+    "security": "AES Corporation",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Independent Power Producers & Energy Traders",
+    "date_added": "1998-10-02T00:00:00.000Z",
+    "founded_year": "1981"
+  },
+  {
+    "symbol": "AFL",
+    "security": "Aflac",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Life & Health Insurance",
+    "date_added": "1999-05-28T00:00:00.000Z",
+    "founded_year": "1955"
+  },
+  {
+    "symbol": "A",
+    "security": "Agilent Technologies",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2000-06-05T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "APD",
+    "security": "Air Products and Chemicals",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Industrial Gases",
+    "date_added": "1985-04-30T00:00:00.000Z",
+    "founded_year": "1940"
+  },
+  {
+    "symbol": "ABNB",
+    "security": "Airbnb",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "2023-09-18T00:00:00.000Z",
+    "founded_year": "2008"
+  },
+  {
+    "symbol": "AKAM",
+    "security": "Akamai",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Internet Services & Infrastructure",
+    "date_added": "2007-07-12T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "ALB",
+    "security": "Albemarle Corporation",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "2016-07-01T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "ARE",
+    "security": "Alexandria Real Estate Equities",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Office REITs",
+    "date_added": "2017-03-20T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "ALGN",
+    "security": "Align Technology",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Supplies",
+    "date_added": "2017-06-19T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "ALLE",
+    "security": "Allegion",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "2013-12-02T00:00:00.000Z",
+    "founded_year": "1908"
+  },
+  {
+    "symbol": "LNT",
+    "security": "Alliant Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "2016-07-01T00:00:00.000Z",
+    "founded_year": "1917"
+  },
+  {
+    "symbol": "ALL",
+    "security": "Allstate",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "1995-07-13T00:00:00.000Z",
+    "founded_year": "1931"
+  },
+  {
+    "symbol": "GOOGL",
+    "security": "Alphabet Inc. (Class A)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Interactive Media & Services",
+    "date_added": "2014-04-03T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "GOOG",
+    "security": "Alphabet Inc. (Class C)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Interactive Media & Services",
+    "date_added": "2006-04-03T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "MO",
+    "security": "Altria",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Tobacco",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "AMZN",
+    "security": "Amazon",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Broadline Retail",
+    "date_added": "2005-11-18T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "AMCR",
+    "security": "Amcor",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Paper & Plastic Packaging Products & Materials",
+    "date_added": "2019-06-07T00:00:00.000Z",
+    "founded_year": "2019 (1860)"
+  },
+  {
+    "symbol": "AEE",
+    "security": "Ameren",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1991-09-19T00:00:00.000Z",
+    "founded_year": "1902"
+  },
+  {
+    "symbol": "AAL",
+    "security": "American Airlines Group",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Passenger Airlines",
+    "date_added": "2015-03-23T00:00:00.000Z",
+    "founded_year": "1934"
+  },
+  {
+    "symbol": "AEP",
+    "security": "American Electric Power",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1906"
+  },
+  {
+    "symbol": "AXP",
+    "security": "American Express",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Consumer Finance",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1850"
+  },
+  {
+    "symbol": "AIG",
+    "security": "American International Group",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Multi-line Insurance",
+    "date_added": "1980-03-31T00:00:00.000Z",
+    "founded_year": "1919"
+  },
+  {
+    "symbol": "AMT",
+    "security": "American Tower",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Telecom Tower REITs",
+    "date_added": "2007-11-19T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "AWK",
+    "security": "American Water Works",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Water Utilities",
+    "date_added": "2016-03-04T00:00:00.000Z",
+    "founded_year": "1886"
+  },
+  {
+    "symbol": "AMP",
+    "security": "Ameriprise Financial",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "2005-10-03T00:00:00.000Z",
+    "founded_year": "1894"
+  },
+  {
+    "symbol": "AME",
+    "security": "Ametek",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Electrical Components & Equipment",
+    "date_added": "2013-09-23T00:00:00.000Z",
+    "founded_year": "1930"
+  },
+  {
+    "symbol": "AMGN",
+    "security": "Amgen",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "1992-01-02T00:00:00.000Z",
+    "founded_year": "1980"
+  },
+  {
+    "symbol": "APH",
+    "security": "Amphenol",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Components",
+    "date_added": "2008-09-30T00:00:00.000Z",
+    "founded_year": "1932"
+  },
+  {
+    "symbol": "ADI",
+    "security": "Analog Devices",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "1999-10-12T00:00:00.000Z",
+    "founded_year": "1965"
+  },
+  {
+    "symbol": "ANSS",
+    "security": "Ansys",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2017-06-19T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "AON",
+    "security": "Aon",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Insurance Brokers",
+    "date_added": "1996-04-23T00:00:00.000Z",
+    "founded_year": "1982 (1919)"
+  },
+  {
+    "symbol": "APA",
+    "security": "APA Corporation",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "1997-07-28T00:00:00.000Z",
+    "founded_year": "1954"
+  },
+  {
+    "symbol": "AAPL",
+    "security": "Apple Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Hardware, Storage & Peripherals",
+    "date_added": "1982-11-30T00:00:00.000Z",
+    "founded_year": "1977"
+  },
+  {
+    "symbol": "AMAT",
+    "security": "Applied Materials",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductor Materials & Equipment",
+    "date_added": "1995-03-16T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "APTV",
+    "security": "Aptiv",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automotive Parts & Equipment",
+    "date_added": "2012-12-24T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "ACGL",
+    "security": "Arch Capital Group",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "2022-11-01T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "ADM",
+    "security": "Archer-Daniels-Midland",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Agricultural Products & Services",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1902"
+  },
+  {
+    "symbol": "ANET",
+    "security": "Arista Networks",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Communications Equipment",
+    "date_added": "2018-08-28T00:00:00.000Z",
+    "founded_year": "2004"
+  },
+  {
+    "symbol": "AJG",
+    "security": "Arthur J. Gallagher & Co.",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Insurance Brokers",
+    "date_added": "2016-05-31T00:00:00.000Z",
+    "founded_year": "1927"
+  },
+  {
+    "symbol": "AIZ",
+    "security": "Assurant",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Multi-line Insurance",
+    "date_added": "2007-04-10T00:00:00.000Z",
+    "founded_year": "1892"
+  },
+  {
+    "symbol": "T",
+    "security": "AT&T",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Integrated Telecommunication Services",
+    "date_added": "1983-11-30T00:00:00.000Z",
+    "founded_year": "1983 (1885)"
+  },
+  {
+    "symbol": "ATO",
+    "security": "Atmos Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Gas Utilities",
+    "date_added": "2019-02-15T00:00:00.000Z",
+    "founded_year": "1906"
+  },
+  {
+    "symbol": "ADSK",
+    "security": "Autodesk",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "1989-12-01T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "ADP",
+    "security": "Automated Data Processing",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Human Resource & Employment Services",
+    "date_added": "1981-03-31T00:00:00.000Z",
+    "founded_year": "1949"
+  },
+  {
+    "symbol": "AZO",
+    "security": "AutoZone",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automotive Retail",
+    "date_added": "1997-01-02T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "AVB",
+    "security": "AvalonBay Communities",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Multi-Family Residential REITs",
+    "date_added": "2007-01-10T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "AVY",
+    "security": "Avery Dennison",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Paper & Plastic Packaging Products & Materials",
+    "date_added": "1987-12-31T00:00:00.000Z",
+    "founded_year": "1990"
+  },
+  {
+    "symbol": "AXON",
+    "security": "Axon Enterprise",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "2023-05-04T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "BKR",
+    "security": "Baker Hughes",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Equipment & Services",
+    "date_added": "2017-07-07T00:00:00.000Z",
+    "founded_year": "2017"
+  },
+  {
+    "symbol": "BALL",
+    "security": "Ball Corporation",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Metal, Glass & Plastic Containers",
+    "date_added": "1984-10-31T00:00:00.000Z",
+    "founded_year": "1880"
+  },
+  {
+    "symbol": "BAC",
+    "security": "Bank of America",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1998 (1923 / 1874)"
+  },
+  {
+    "symbol": "BK",
+    "security": "Bank of New York Mellon",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "1995-03-31T00:00:00.000Z",
+    "founded_year": "1784"
+  },
+  {
+    "symbol": "BBWI",
+    "security": "Bath & Body Works, Inc.",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Other Specialty Retail",
+    "date_added": "1983-09-30T00:00:00.000Z",
+    "founded_year": "1963"
+  },
+  {
+    "symbol": "BAX",
+    "security": "Baxter International",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "1972-09-30T00:00:00.000Z",
+    "founded_year": "1931"
+  },
+  {
+    "symbol": "BDX",
+    "security": "Becton Dickinson",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "1972-09-30T00:00:00.000Z",
+    "founded_year": "1897"
+  },
+  {
+    "symbol": "BRK.B",
+    "security": "Berkshire Hathaway",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Multi-Sector Holdings",
+    "date_added": "2010-02-16T00:00:00.000Z",
+    "founded_year": "1839"
+  },
+  {
+    "symbol": "BBY",
+    "security": "Best Buy",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Computer & Electronics Retail",
+    "date_added": "1999-06-29T00:00:00.000Z",
+    "founded_year": "1966"
+  },
+  {
+    "symbol": "BIO",
+    "security": "Bio-Rad",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2020-06-22T00:00:00.000Z",
+    "founded_year": "1952"
+  },
+  {
+    "symbol": "TECH",
+    "security": "Bio-Techne",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2021-08-30T00:00:00.000Z",
+    "founded_year": "1976"
+  },
+  {
+    "symbol": "BIIB",
+    "security": "Biogen",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2003-11-13T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "BLK",
+    "security": "BlackRock",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "2011-04-04T00:00:00.000Z",
+    "founded_year": "1988"
+  },
+  {
+    "symbol": "BX",
+    "security": "Blackstone",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "2023-09-18T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "BA",
+    "security": "Boeing",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1916"
+  },
+  {
+    "symbol": "BKNG",
+    "security": "Booking Holdings",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "2009-11-06T00:00:00.000Z",
+    "founded_year": "1996"
+  },
+  {
+    "symbol": "BWA",
+    "security": "BorgWarner",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automotive Parts & Equipment",
+    "date_added": "2011-12-19T00:00:00.000Z",
+    "founded_year": "1880"
+  },
+  {
+    "symbol": "BXP",
+    "security": "Boston Properties",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Office REITs",
+    "date_added": "2006-04-03T00:00:00.000Z",
+    "founded_year": "1970"
+  },
+  {
+    "symbol": "BSX",
+    "security": "Boston Scientific",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "1995-02-24T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "BMY",
+    "security": "Bristol Myers Squibb",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1989 (1887)"
+  },
+  {
+    "symbol": "AVGO",
+    "security": "Broadcom Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2014-05-08T00:00:00.000Z",
+    "founded_year": "1961"
+  },
+  {
+    "symbol": "BR",
+    "security": "Broadridge Financial Solutions",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Data Processing & Outsourced Services",
+    "date_added": "2018-06-18T00:00:00.000Z",
+    "founded_year": "1962"
+  },
+  {
+    "symbol": "BRO",
+    "security": "Brown & Brown",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Insurance Brokers",
+    "date_added": "2021-09-20T00:00:00.000Z",
+    "founded_year": "1939"
+  },
+  {
+    "symbol": "BF.B",
+    "security": "Brown–Forman",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Distillers & Vintners",
+    "date_added": "1982-10-31T00:00:00.000Z",
+    "founded_year": "1870"
+  },
+  {
+    "symbol": "BLDR",
+    "security": "Builders FirstSource",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "2023-12-18T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "BG",
+    "security": "Bunge Global SA",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Agricultural Products & Services",
+    "date_added": "2023-03-15T00:00:00.000Z",
+    "founded_year": "1818"
+  },
+  {
+    "symbol": "CDNS",
+    "security": "Cadence Design Systems",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2017-09-18T00:00:00.000Z",
+    "founded_year": "1988"
+  },
+  {
+    "symbol": "CZR",
+    "security": "Caesars Entertainment",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Casinos & Gaming",
+    "date_added": "2021-03-22T00:00:00.000Z",
+    "founded_year": "1973"
+  },
+  {
+    "symbol": "CPT",
+    "security": "Camden Property Trust",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Multi-Family Residential REITs",
+    "date_added": "2022-04-04T00:00:00.000Z",
+    "founded_year": "1981"
+  },
+  {
+    "symbol": "CPB",
+    "security": "Campbell Soup Company",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1869"
+  },
+  {
+    "symbol": "COF",
+    "security": "Capital One",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Consumer Finance",
+    "date_added": "1998-07-01T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "CAH",
+    "security": "Cardinal Health",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Distributors",
+    "date_added": "1997-05-27T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "KMX",
+    "security": "CarMax",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automotive Retail",
+    "date_added": "2010-06-28T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "CCL",
+    "security": "Carnival",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "1998-12-22T00:00:00.000Z",
+    "founded_year": "1972"
+  },
+  {
+    "symbol": "CARR",
+    "security": "Carrier Global",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "2020-04-03T00:00:00.000Z",
+    "founded_year": "2020 (1915, United Technologies spinoff)"
+  },
+  {
+    "symbol": "CTLT",
+    "security": "Catalent",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "2020-09-21T00:00:00.000Z",
+    "founded_year": "2007"
+  },
+  {
+    "symbol": "CAT",
+    "security": "Caterpillar Inc.",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1925"
+  },
+  {
+    "symbol": "CBOE",
+    "security": "Cboe Global Markets",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2017-03-01T00:00:00.000Z",
+    "founded_year": "1973"
+  },
+  {
+    "symbol": "CBRE",
+    "security": "CBRE Group",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Real Estate Services",
+    "date_added": "2006-11-10T00:00:00.000Z",
+    "founded_year": "1906"
+  },
+  {
+    "symbol": "CDW",
+    "security": "CDW",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Distributors",
+    "date_added": "2019-09-23T00:00:00.000Z",
+    "founded_year": "1984"
+  },
+  {
+    "symbol": "CE",
+    "security": "Celanese",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "2018-12-24T00:00:00.000Z",
+    "founded_year": "1918"
+  },
+  {
+    "symbol": "COR",
+    "security": "Cencora",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Distributors",
+    "date_added": "2001-08-30T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "CNC",
+    "security": "Centene Corporation",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Managed Health Care",
+    "date_added": "2016-03-30T00:00:00.000Z",
+    "founded_year": "1984"
+  },
+  {
+    "symbol": "CNP",
+    "security": "CenterPoint Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1985-07-31T00:00:00.000Z",
+    "founded_year": "1882"
+  },
+  {
+    "symbol": "CDAY",
+    "security": "Ceridian",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Human Resource & Employment Services",
+    "date_added": "2021-09-20T00:00:00.000Z",
+    "founded_year": "1992"
+  },
+  {
+    "symbol": "CF",
+    "security": "CF Industries",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Fertilizers & Agricultural Chemicals",
+    "date_added": "2008-08-27T00:00:00.000Z",
+    "founded_year": "1946"
+  },
+  {
+    "symbol": "CHRW",
+    "security": "CH Robinson",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Air Freight & Logistics",
+    "date_added": "2007-03-02T00:00:00.000Z",
+    "founded_year": "1905"
+  },
+  {
+    "symbol": "CRL",
+    "security": "Charles River Laboratories",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2021-05-14T00:00:00.000Z",
+    "founded_year": "1947"
+  },
+  {
+    "symbol": "SCHW",
+    "security": "Charles Schwab Corporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Investment Banking & Brokerage",
+    "date_added": "1997-06-02T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "CHTR",
+    "security": "Charter Communications",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Cable & Satellite",
+    "date_added": "2016-09-08T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "CVX",
+    "security": "Chevron Corporation",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Integrated Oil & Gas",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1879"
+  },
+  {
+    "symbol": "CMG",
+    "security": "Chipotle Mexican Grill",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Restaurants",
+    "date_added": "2011-04-28T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "CB",
+    "security": "Chubb Limited",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "2010-07-15T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "CHD",
+    "security": "Church & Dwight",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Household Products",
+    "date_added": "2015-12-29T00:00:00.000Z",
+    "founded_year": "1847"
+  },
+  {
+    "symbol": "CI",
+    "security": "Cigna",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Services",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "CINF",
+    "security": "Cincinnati Financial",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "1997-12-18T00:00:00.000Z",
+    "founded_year": "1950"
+  },
+  {
+    "symbol": "CTAS",
+    "security": "Cintas",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Diversified Support Services",
+    "date_added": "2001-03-01T00:00:00.000Z",
+    "founded_year": "1929"
+  },
+  {
+    "symbol": "CSCO",
+    "security": "Cisco",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Communications Equipment",
+    "date_added": "1993-12-01T00:00:00.000Z",
+    "founded_year": "1984"
+  },
+  {
+    "symbol": "C",
+    "security": "Citigroup",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1988-05-31T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "CFG",
+    "security": "Citizens Financial Group",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "2016-01-29T00:00:00.000Z",
+    "founded_year": "1828"
+  },
+  {
+    "symbol": "CLX",
+    "security": "Clorox",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Household Products",
+    "date_added": "1969-03-31T00:00:00.000Z",
+    "founded_year": "1913"
+  },
+  {
+    "symbol": "CME",
+    "security": "CME Group",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2006-08-11T00:00:00.000Z",
+    "founded_year": "1848"
+  },
+  {
+    "symbol": "CMS",
+    "security": "CMS Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1886"
+  },
+  {
+    "symbol": "KO",
+    "security": "Coca-Cola Company (The)",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Soft Drinks & Non-alcoholic Beverages",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1886"
+  },
+  {
+    "symbol": "CTSH",
+    "security": "Cognizant",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "IT Consulting & Other Services",
+    "date_added": "2006-11-17T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "CL",
+    "security": "Colgate-Palmolive",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Household Products",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1806"
+  },
+  {
+    "symbol": "CMCSA",
+    "security": "Comcast",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Cable & Satellite",
+    "date_added": "2002-11-19T00:00:00.000Z",
+    "founded_year": "1963"
+  },
+  {
+    "symbol": "CMA",
+    "security": "Comerica",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1995-12-01T00:00:00.000Z",
+    "founded_year": "1849"
+  },
+  {
+    "symbol": "CAG",
+    "security": "Conagra Brands",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "1983-08-31T00:00:00.000Z",
+    "founded_year": "1919"
+  },
+  {
+    "symbol": "COP",
+    "security": "ConocoPhillips",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "2002"
+  },
+  {
+    "symbol": "ED",
+    "security": "Consolidated Edison",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1823"
+  },
+  {
+    "symbol": "STZ",
+    "security": "Constellation Brands",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Distillers & Vintners",
+    "date_added": "2005-07-01T00:00:00.000Z",
+    "founded_year": "1945"
+  },
+  {
+    "symbol": "CEG",
+    "security": "Constellation Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "2022-02-02T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "COO",
+    "security": "CooperCompanies",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Supplies",
+    "date_added": "2016-09-23T00:00:00.000Z",
+    "founded_year": "1958"
+  },
+  {
+    "symbol": "CPRT",
+    "security": "Copart",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Diversified Support Services",
+    "date_added": "2018-07-02T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "GLW",
+    "security": "Corning Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Components",
+    "date_added": "1995-02-27T00:00:00.000Z",
+    "founded_year": "1851"
+  },
+  {
+    "symbol": "CTVA",
+    "security": "Corteva",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Fertilizers & Agricultural Chemicals",
+    "date_added": "2019-06-03T00:00:00.000Z",
+    "founded_year": "2019"
+  },
+  {
+    "symbol": "CSGP",
+    "security": "CoStar Group",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Real Estate Services",
+    "date_added": "2022-09-19T00:00:00.000Z",
+    "founded_year": "1987"
+  },
+  {
+    "symbol": "COST",
+    "security": "Costco",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Consumer Staples Merchandise Retail",
+    "date_added": "1993-10-01T00:00:00.000Z",
+    "founded_year": "1976"
+  },
+  {
+    "symbol": "CTRA",
+    "security": "Coterra",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "2008-06-23T00:00:00.000Z",
+    "founded_year": "2021 (1989)"
+  },
+  {
+    "symbol": "CCI",
+    "security": "Crown Castle",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Telecom Tower REITs",
+    "date_added": "2012-03-14T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "CSX",
+    "security": "CSX",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Rail Transportation",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1980"
+  },
+  {
+    "symbol": "CMI",
+    "security": "Cummins",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+    "date_added": "1965-03-31T00:00:00.000Z",
+    "founded_year": "1919"
+  },
+  {
+    "symbol": "CVS",
+    "security": "CVS Health",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Services",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1996"
+  },
+  {
+    "symbol": "DHR",
+    "security": "Danaher Corporation",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tolls & Services",
+    "date_added": "1998-11-18T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "DRI",
+    "security": "Darden Restaurants",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Restaurants",
+    "date_added": "1995-05-31T00:00:00.000Z",
+    "founded_year": "1938"
+  },
+  {
+    "symbol": "DVA",
+    "security": "DaVita Inc.",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Services",
+    "date_added": "2008-07-31T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "DE",
+    "security": "John Deere",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Agricultural & Farm Machinery",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1837"
+  },
+  {
+    "symbol": "DAL",
+    "security": "Delta Air Lines",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Passenger Airlines",
+    "date_added": "2013-09-11T00:00:00.000Z",
+    "founded_year": "1929"
+  },
+  {
+    "symbol": "XRAY",
+    "security": "Dentsply Sirona",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Supplies",
+    "date_added": "2008-11-14T00:00:00.000Z",
+    "founded_year": "2016 (1969)"
+  },
+  {
+    "symbol": "DVN",
+    "security": "Devon Energy",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "2000-08-30T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "DXCM",
+    "security": "Dexcom",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2020-05-12T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "FANG",
+    "security": "Diamondback Energy",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "2018-12-03T00:00:00.000Z",
+    "founded_year": "2007"
+  },
+  {
+    "symbol": "DLR",
+    "security": "Digital Realty",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Data Center REITs",
+    "date_added": "2016-05-18T00:00:00.000Z",
+    "founded_year": "2004"
+  },
+  {
+    "symbol": "DFS",
+    "security": "Discover Financial",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Consumer Finance",
+    "date_added": "2007-07-02T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "DG",
+    "security": "Dollar General",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Consumer Staples Merchandise Retail",
+    "date_added": "2012-12-03T00:00:00.000Z",
+    "founded_year": "1939"
+  },
+  {
+    "symbol": "DLTR",
+    "security": "Dollar Tree",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Consumer Staples Merchandise Retail",
+    "date_added": "2011-12-19T00:00:00.000Z",
+    "founded_year": "1986"
+  },
+  {
+    "symbol": "D",
+    "security": "Dominion Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "2016-11-30T00:00:00.000Z",
+    "founded_year": "1983"
+  },
+  {
+    "symbol": "DPZ",
+    "security": "Domino's",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Restaurants",
+    "date_added": "2020-05-12T00:00:00.000Z",
+    "founded_year": "1960"
+  },
+  {
+    "symbol": "DOV",
+    "security": "Dover Corporation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "1985-10-31T00:00:00.000Z",
+    "founded_year": "1955"
+  },
+  {
+    "symbol": "DOW",
+    "security": "Dow Inc.",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Commodity Chemicals",
+    "date_added": "2019-04-01T00:00:00.000Z",
+    "founded_year": "2019 (1897)"
+  },
+  {
+    "symbol": "DHI",
+    "security": "DR Horton",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Homebuilding",
+    "date_added": "2005-06-22T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "DTE",
+    "security": "DTE Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "DUK",
+    "security": "Duke Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1904"
+  },
+  {
+    "symbol": "DD",
+    "security": "DuPont",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "2019-04-02T00:00:00.000Z",
+    "founded_year": "2017 (1802)"
+  },
+  {
+    "symbol": "EMN",
+    "security": "Eastman Chemical Company",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "1994-01-01T00:00:00.000Z",
+    "founded_year": "1920"
+  },
+  {
+    "symbol": "ETN",
+    "security": "Eaton Corporation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Electrical Components & Equipment",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1911"
+  },
+  {
+    "symbol": "EBAY",
+    "security": "eBay",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Broadline Retail",
+    "date_added": "2002-07-22T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "ECL",
+    "security": "Ecolab",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "1989-01-31T00:00:00.000Z",
+    "founded_year": "1923"
+  },
+  {
+    "symbol": "EIX",
+    "security": "Edison International",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1886"
+  },
+  {
+    "symbol": "EW",
+    "security": "Edwards Lifesciences",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2011-04-01T00:00:00.000Z",
+    "founded_year": "1958"
+  },
+  {
+    "symbol": "EA",
+    "security": "Electronic Arts",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Interactive Home Entertainment",
+    "date_added": "2002-07-22T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "ELV",
+    "security": "Elevance Health",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Managed Health Care",
+    "date_added": "2002-07-25T00:00:00.000Z",
+    "founded_year": "2014 (1946)"
+  },
+  {
+    "symbol": "LLY",
+    "security": "Eli Lilly and Company",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "1970-12-31T00:00:00.000Z",
+    "founded_year": "1876"
+  },
+  {
+    "symbol": "EMR",
+    "security": "Emerson Electric",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Electrical Components & Equipment",
+    "date_added": "1965-03-31T00:00:00.000Z",
+    "founded_year": "1890"
+  },
+  {
+    "symbol": "ENPH",
+    "security": "Enphase",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductor Materials & Equipment",
+    "date_added": "2021-01-07T00:00:00.000Z",
+    "founded_year": "2006"
+  },
+  {
+    "symbol": "ETR",
+    "security": "Entergy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1913"
+  },
+  {
+    "symbol": "EOG",
+    "security": "EOG Resources",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "2000-11-02T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "EPAM",
+    "security": "EPAM Systems",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "IT Consulting & Other Services",
+    "date_added": "2021-12-14T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "EQT",
+    "security": "EQT",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "2022-10-03T00:00:00.000Z",
+    "founded_year": "1888"
+  },
+  {
+    "symbol": "EFX",
+    "security": "Equifax",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Research & Consulting Services",
+    "date_added": "1997-06-19T00:00:00.000Z",
+    "founded_year": "1899"
+  },
+  {
+    "symbol": "EQIX",
+    "security": "Equinix",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Data Center REITs",
+    "date_added": "2015-03-20T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "EQR",
+    "security": "Equity Residential",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Multi-Family Residential REITs",
+    "date_added": "2001-12-03T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "ESS",
+    "security": "Essex Property Trust",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Multi-Family Residential REITs",
+    "date_added": "2014-04-02T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "EL",
+    "security": "Estée Lauder Companies (The)",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Personal Care Products",
+    "date_added": "2006-01-05T00:00:00.000Z",
+    "founded_year": "1946"
+  },
+  {
+    "symbol": "ETSY",
+    "security": "Etsy",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Broadline Retail",
+    "date_added": "2020-09-21T00:00:00.000Z",
+    "founded_year": "2005"
+  },
+  {
+    "symbol": "EG",
+    "security": "Everest Re",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Reinsurance",
+    "date_added": "2017-06-19T00:00:00.000Z",
+    "founded_year": "1973"
+  },
+  {
+    "symbol": "EVRG",
+    "security": "Evergy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "2018-06-05T00:00:00.000Z",
+    "founded_year": "1909"
+  },
+  {
+    "symbol": "ES",
+    "security": "Eversource",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "2009-07-24T00:00:00.000Z",
+    "founded_year": "1966"
+  },
+  {
+    "symbol": "EXC",
+    "security": "Exelon",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "EXPE",
+    "security": "Expedia Group",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "2007-10-02T00:00:00.000Z",
+    "founded_year": "1996"
+  },
+  {
+    "symbol": "EXPD",
+    "security": "Expeditors International",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Air Freight & Logistics",
+    "date_added": "2007-10-10T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "EXR",
+    "security": "Extra Space Storage",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Self-Storage REITs",
+    "date_added": "2016-01-19T00:00:00.000Z",
+    "founded_year": "1977"
+  },
+  {
+    "symbol": "XOM",
+    "security": "ExxonMobil",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Integrated Oil & Gas",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "FFIV",
+    "security": "F5, Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Communications Equipment",
+    "date_added": "2010-12-20T00:00:00.000Z",
+    "founded_year": "1996"
+  },
+  {
+    "symbol": "FDS",
+    "security": "FactSet",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2021-12-20T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "FICO",
+    "security": "Fair Isaac",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2023-03-20T00:00:00.000Z",
+    "founded_year": "1956"
+  },
+  {
+    "symbol": "FAST",
+    "security": "Fastenal",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Trading Companies & Distributors",
+    "date_added": "2008-09-15T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "FRT",
+    "security": "Federal Realty",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Retail REITs",
+    "date_added": "2016-02-01T00:00:00.000Z",
+    "founded_year": "1962"
+  },
+  {
+    "symbol": "FDX",
+    "security": "FedEx",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Air Freight & Logistics",
+    "date_added": "1980-12-31T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "FIS",
+    "security": "Fidelity National Information Services",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2006-11-10T00:00:00.000Z",
+    "founded_year": "1968"
+  },
+  {
+    "symbol": "FITB",
+    "security": "Fifth Third Bank",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1996-03-29T00:00:00.000Z",
+    "founded_year": "1858"
+  },
+  {
+    "symbol": "FSLR",
+    "security": "First Solar",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2022-12-19T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "FE",
+    "security": "FirstEnergy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1997-11-28T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "FI",
+    "security": "Fiserv",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2001-04-02T00:00:00.000Z",
+    "founded_year": "1984"
+  },
+  {
+    "symbol": "FLT",
+    "security": "Fleetcor",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2018-06-20T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "FMC",
+    "security": "FMC Corporation",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Fertilizers & Agricultural Chemicals",
+    "date_added": "2009-08-19T00:00:00.000Z",
+    "founded_year": "1883"
+  },
+  {
+    "symbol": "F",
+    "security": "Ford Motor Company",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automobile Manufacturers",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1903"
+  },
+  {
+    "symbol": "FTNT",
+    "security": "Fortinet",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Systems Software",
+    "date_added": "2018-10-11T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "FTV",
+    "security": "Fortive",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2016-07-01T00:00:00.000Z",
+    "founded_year": "2016"
+  },
+  {
+    "symbol": "FOXA",
+    "security": "Fox Corporation (Class A)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Broadcasting",
+    "date_added": "2013-07-01T00:00:00.000Z",
+    "founded_year": "2019"
+  },
+  {
+    "symbol": "FOX",
+    "security": "Fox Corporation (Class B)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Broadcasting",
+    "date_added": "2015-09-18T00:00:00.000Z",
+    "founded_year": "2019"
+  },
+  {
+    "symbol": "BEN",
+    "security": "Franklin Templeton",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "1998-04-30T00:00:00.000Z",
+    "founded_year": "1947"
+  },
+  {
+    "symbol": "FCX",
+    "security": "Freeport-McMoRan",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Copper",
+    "date_added": "2011-07-01T00:00:00.000Z",
+    "founded_year": "1912"
+  },
+  {
+    "symbol": "GRMN",
+    "security": "Garmin",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Consumer Electronics",
+    "date_added": "2012-12-12T00:00:00.000Z",
+    "founded_year": "1989"
+  },
+  {
+    "symbol": "IT",
+    "security": "Gartner",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "IT Consulting & Other Services",
+    "date_added": "2017-04-05T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "GEHC",
+    "security": "GE HealthCare",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2023-01-04T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "GEN",
+    "security": "Gen Digital",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Systems Software",
+    "date_added": "2003-03-25T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "GNRC",
+    "security": "Generac",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Electrical Components & Equipment",
+    "date_added": "2021-03-22T00:00:00.000Z",
+    "founded_year": "1959"
+  },
+  {
+    "symbol": "GD",
+    "security": "General Dynamics",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1899"
+  },
+  {
+    "symbol": "GE",
+    "security": "General Electric",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Conglomerates",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1892"
+  },
+  {
+    "symbol": "GIS",
+    "security": "General Mills",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1856"
+  },
+  {
+    "symbol": "GM",
+    "security": "General Motors",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automobile Manufacturers",
+    "date_added": "2013-06-06T00:00:00.000Z",
+    "founded_year": "1908"
+  },
+  {
+    "symbol": "GPC",
+    "security": "Genuine Parts Company",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Distributors",
+    "date_added": "1973-12-31T00:00:00.000Z",
+    "founded_year": "1925"
+  },
+  {
+    "symbol": "GILD",
+    "security": "Gilead Sciences",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2004-07-01T00:00:00.000Z",
+    "founded_year": "1987"
+  },
+  {
+    "symbol": "GPN",
+    "security": "Global Payments",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2016-04-25T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "GL",
+    "security": "Globe Life",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Life & Health Insurance",
+    "date_added": "1989-04-30T00:00:00.000Z",
+    "founded_year": "1900"
+  },
+  {
+    "symbol": "GS",
+    "security": "Goldman Sachs",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Investment Banking & Brokerage",
+    "date_added": "2002-07-22T00:00:00.000Z",
+    "founded_year": "1869"
+  },
+  {
+    "symbol": "HAL",
+    "security": "Halliburton",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Equipment & Services",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1919"
+  },
+  {
+    "symbol": "HIG",
+    "security": "Hartford (The)",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1810"
+  },
+  {
+    "symbol": "HAS",
+    "security": "Hasbro",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Leisure Products",
+    "date_added": "1984-09-30T00:00:00.000Z",
+    "founded_year": "1923"
+  },
+  {
+    "symbol": "HCA",
+    "security": "HCA Healthcare",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Facilities",
+    "date_added": "2015-01-27T00:00:00.000Z",
+    "founded_year": "1968"
+  },
+  {
+    "symbol": "PEAK",
+    "security": "Healthpeak",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Health Care REITs",
+    "date_added": "2008-03-31T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "HSIC",
+    "security": "Henry Schein",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Distributors",
+    "date_added": "2015-03-17T00:00:00.000Z",
+    "founded_year": "1932"
+  },
+  {
+    "symbol": "HSY",
+    "security": "Hershey's",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1894"
+  },
+  {
+    "symbol": "HES",
+    "security": "Hess Corporation",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Integrated Oil & Gas",
+    "date_added": "1984-05-31T00:00:00.000Z",
+    "founded_year": "1919"
+  },
+  {
+    "symbol": "HPE",
+    "security": "Hewlett Packard Enterprise",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Hardware, Storage & Peripherals",
+    "date_added": "2015-11-02T00:00:00.000Z",
+    "founded_year": "2015"
+  },
+  {
+    "symbol": "HLT",
+    "security": "Hilton Worldwide",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "2017-06-19T00:00:00.000Z",
+    "founded_year": "1919"
+  },
+  {
+    "symbol": "HOLX",
+    "security": "Hologic",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2016-03-30T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "HD",
+    "security": "Home Depot (The)",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Home Improvement Retail",
+    "date_added": "1988-03-31T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "HON",
+    "security": "Honeywell",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Conglomerates",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1906"
+  },
+  {
+    "symbol": "HRL",
+    "security": "Hormel Foods",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2009-03-04T00:00:00.000Z",
+    "founded_year": "1891"
+  },
+  {
+    "symbol": "HST",
+    "security": "Host Hotels & Resorts",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Hotel & Resort REITs",
+    "date_added": "2007-03-20T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "HWM",
+    "security": "Howmet Aerospace",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "2016"
+  },
+  {
+    "symbol": "HPQ",
+    "security": "HP Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Hardware, Storage & Peripherals",
+    "date_added": "1974-12-31T00:00:00.000Z",
+    "founded_year": "1939 (2015)"
+  },
+  {
+    "symbol": "HUBB",
+    "security": "Hubbell Incorporated",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2023-10-18T00:00:00.000Z",
+    "founded_year": "1888"
+  },
+  {
+    "symbol": "HUM",
+    "security": "Humana",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Managed Health Care",
+    "date_added": "2012-12-10T00:00:00.000Z",
+    "founded_year": "1961"
+  },
+  {
+    "symbol": "HBAN",
+    "security": "Huntington Bancshares",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "1997-08-28T00:00:00.000Z",
+    "founded_year": "1866"
+  },
+  {
+    "symbol": "HII",
+    "security": "Huntington Ingalls Industries",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "2018-01-03T00:00:00.000Z",
+    "founded_year": "2011"
+  },
+  {
+    "symbol": "IBM",
+    "security": "IBM",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "IT Consulting & Other Services",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1911"
+  },
+  {
+    "symbol": "IEX",
+    "security": "IDEX Corporation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2019-08-09T00:00:00.000Z",
+    "founded_year": "1988"
+  },
+  {
+    "symbol": "IDXX",
+    "security": "Idexx Laboratories",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2017-01-05T00:00:00.000Z",
+    "founded_year": "1983"
+  },
+  {
+    "symbol": "ITW",
+    "security": "Illinois Tool Works",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "1986-02-28T00:00:00.000Z",
+    "founded_year": "1912"
+  },
+  {
+    "symbol": "ILMN",
+    "security": "Illumina",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2015-11-19T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "INCY",
+    "security": "Incyte",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2017-02-28T00:00:00.000Z",
+    "founded_year": "1991"
+  },
+  {
+    "symbol": "IR",
+    "security": "Ingersoll Rand",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2020-03-03T00:00:00.000Z",
+    "founded_year": "1859"
+  },
+  {
+    "symbol": "PODD",
+    "security": "Insulet",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2023-03-15T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "INTC",
+    "security": "Intel",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "1976-12-31T00:00:00.000Z",
+    "founded_year": "1968"
+  },
+  {
+    "symbol": "ICE",
+    "security": "Intercontinental Exchange",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2007-09-26T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "IFF",
+    "security": "International Flavors & Fragrances",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "1976-03-31T00:00:00.000Z",
+    "founded_year": "1958 (1889)"
+  },
+  {
+    "symbol": "IP",
+    "security": "International Paper",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Paper & Plastic Packaging Products & Materials",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1898"
+  },
+  {
+    "symbol": "IPG",
+    "security": "Interpublic Group of Companies (The)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Advertising",
+    "date_added": "1992-10-01T00:00:00.000Z",
+    "founded_year": "1961 (1930)"
+  },
+  {
+    "symbol": "INTU",
+    "security": "Intuit",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2000-12-05T00:00:00.000Z",
+    "founded_year": "1983"
+  },
+  {
+    "symbol": "ISRG",
+    "security": "Intuitive Surgical",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2008-06-02T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "IVZ",
+    "security": "Invesco",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "2008-08-21T00:00:00.000Z",
+    "founded_year": "1935"
+  },
+  {
+    "symbol": "INVH",
+    "security": "Invitation Homes",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Single-Family Residential REITs",
+    "date_added": "2022-09-19T00:00:00.000Z",
+    "founded_year": "2012"
+  },
+  {
+    "symbol": "IQV",
+    "security": "IQVIA",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2017-08-29T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "IRM",
+    "security": "Iron Mountain",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Other Specialized REITs",
+    "date_added": "2009-01-06T00:00:00.000Z",
+    "founded_year": "1951"
+  },
+  {
+    "symbol": "JBHT",
+    "security": "J.B. Hunt",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Cargo Ground Transportation",
+    "date_added": "2015-07-01T00:00:00.000Z",
+    "founded_year": "1961"
+  },
+  {
+    "symbol": "JBL",
+    "security": "Jabil",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Manufacturing Services",
+    "date_added": "2023-12-18T00:00:00.000Z",
+    "founded_year": "1966"
+  },
+  {
+    "symbol": "JKHY",
+    "security": "Jack Henry & Associates",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2018-11-13T00:00:00.000Z",
+    "founded_year": "1976"
+  },
+  {
+    "symbol": "J",
+    "security": "Jacobs Solutions",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Construction & Engineering",
+    "date_added": "2007-10-26T00:00:00.000Z",
+    "founded_year": "1947"
+  },
+  {
+    "symbol": "JNJ",
+    "security": "Johnson & Johnson",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "1973-06-30T00:00:00.000Z",
+    "founded_year": "1886"
+  },
+  {
+    "symbol": "JCI",
+    "security": "Johnson Controls",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "2010-08-27T00:00:00.000Z",
+    "founded_year": "1885"
+  },
+  {
+    "symbol": "JPM",
+    "security": "JPMorgan Chase",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1975-06-30T00:00:00.000Z",
+    "founded_year": "2000 (1799 / 1871)"
+  },
+  {
+    "symbol": "JNPR",
+    "security": "Juniper Networks",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Communications Equipment",
+    "date_added": "2006-06-02T00:00:00.000Z",
+    "founded_year": "1996"
+  },
+  {
+    "symbol": "K",
+    "security": "Kellanova",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "1989-09-11T00:00:00.000Z",
+    "founded_year": "1906"
+  },
+  {
+    "symbol": "KVUE",
+    "security": "Kenvue",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Personal Care Products",
+    "date_added": "2023-08-25T00:00:00.000Z",
+    "founded_year": "2022 (Johnson & Johnson spinoff)"
+  },
+  {
+    "symbol": "KDP",
+    "security": "Keurig Dr Pepper",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Soft Drinks & Non-alcoholic Beverages",
+    "date_added": "2022-06-21T00:00:00.000Z",
+    "founded_year": "1981"
+  },
+  {
+    "symbol": "KEY",
+    "security": "KeyCorp",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "1994-03-01T00:00:00.000Z",
+    "founded_year": "1825"
+  },
+  {
+    "symbol": "KEYS",
+    "security": "Keysight",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Equipment & Instruments",
+    "date_added": "2018-11-06T00:00:00.000Z",
+    "founded_year": "2014 (1939)"
+  },
+  {
+    "symbol": "KMB",
+    "security": "Kimberly-Clark",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Household Products",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1872"
+  },
+  {
+    "symbol": "KIM",
+    "security": "Kimco Realty",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Retail REITs",
+    "date_added": "2006-04-04T00:00:00.000Z",
+    "founded_year": "1958"
+  },
+  {
+    "symbol": "KMI",
+    "security": "Kinder Morgan",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Storage & Transportation",
+    "date_added": "2012-05-25T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "KLAC",
+    "security": "KLA Corporation",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductor Materials & Equipment",
+    "date_added": "1997-09-30T00:00:00.000Z",
+    "founded_year": "1975/1977 (1997)"
+  },
+  {
+    "symbol": "KHC",
+    "security": "Kraft Heinz",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2015-07-06T00:00:00.000Z",
+    "founded_year": "2015 (1869)"
+  },
+  {
+    "symbol": "KR",
+    "security": "Kroger",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Food Retail",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1883"
+  },
+  {
+    "symbol": "LHX",
+    "security": "L3Harris",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "2008-09-22T00:00:00.000Z",
+    "founded_year": "2019 (L3 1997, Harris 1895)"
+  },
+  {
+    "symbol": "LH",
+    "security": "LabCorp",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Services",
+    "date_added": "2004-11-01T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "LRCX",
+    "security": "Lam Research",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductor Materials & Equipment",
+    "date_added": "2012-06-29T00:00:00.000Z",
+    "founded_year": "1980"
+  },
+  {
+    "symbol": "LW",
+    "security": "Lamb Weston",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2018-12-03T00:00:00.000Z",
+    "founded_year": "2016 (1950)"
+  },
+  {
+    "symbol": "LVS",
+    "security": "Las Vegas Sands",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Casinos & Gaming",
+    "date_added": "2019-10-03T00:00:00.000Z",
+    "founded_year": "1988"
+  },
+  {
+    "symbol": "LDOS",
+    "security": "Leidos",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Diversified Support Services",
+    "date_added": "2019-08-09T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "LEN",
+    "security": "Lennar",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Homebuilding",
+    "date_added": "2005-10-04T00:00:00.000Z",
+    "founded_year": "1954"
+  },
+  {
+    "symbol": "LIN",
+    "security": "Linde plc",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Industrial Gases",
+    "date_added": "1992-07-01T00:00:00.000Z",
+    "founded_year": "1879"
+  },
+  {
+    "symbol": "LYV",
+    "security": "Live Nation Entertainment",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Movies & Entertainment",
+    "date_added": "2019-12-23T00:00:00.000Z",
+    "founded_year": "2010"
+  },
+  {
+    "symbol": "LKQ",
+    "security": "LKQ Corporation",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Distributors",
+    "date_added": "2016-05-23T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "LMT",
+    "security": "Lockheed Martin",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "L",
+    "security": "Loews Corporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Multi-line Insurance",
+    "date_added": "1995-05-31T00:00:00.000Z",
+    "founded_year": "1959"
+  },
+  {
+    "symbol": "LOW",
+    "security": "Lowe's",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Home Improvement Retail",
+    "date_added": "1984-02-29T00:00:00.000Z",
+    "founded_year": "1904/1946/1959"
+  },
+  {
+    "symbol": "LULU",
+    "security": "Lululemon Athletica",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel, Accessories & Luxury Goods",
+    "date_added": "2023-10-18T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "LYB",
+    "security": "LyondellBasell",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "2012-09-05T00:00:00.000Z",
+    "founded_year": "2007"
+  },
+  {
+    "symbol": "MTB",
+    "security": "M&T Bank",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "2004-02-23T00:00:00.000Z",
+    "founded_year": "1856"
+  },
+  {
+    "symbol": "MRO",
+    "security": "Marathon Oil",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1887"
+  },
+  {
+    "symbol": "MPC",
+    "security": "Marathon Petroleum",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Refining & Marketing",
+    "date_added": "2011-07-01T00:00:00.000Z",
+    "founded_year": "2009 (1887)"
+  },
+  {
+    "symbol": "MKTX",
+    "security": "MarketAxess",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2019-07-01T00:00:00.000Z",
+    "founded_year": "2000"
+  },
+  {
+    "symbol": "MAR",
+    "security": "Marriott International",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "1998-05-29T00:00:00.000Z",
+    "founded_year": "1927"
+  },
+  {
+    "symbol": "MMC",
+    "security": "Marsh McLennan",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Insurance Brokers",
+    "date_added": "1987-08-31T00:00:00.000Z",
+    "founded_year": "1905"
+  },
+  {
+    "symbol": "MLM",
+    "security": "Martin Marietta Materials",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Construction Materials",
+    "date_added": "2014-07-02T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "MAS",
+    "security": "Masco",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "1981-06-30T00:00:00.000Z",
+    "founded_year": "1929"
+  },
+  {
+    "symbol": "MA",
+    "security": "Mastercard",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2008-07-18T00:00:00.000Z",
+    "founded_year": "1966"
+  },
+  {
+    "symbol": "MTCH",
+    "security": "Match Group",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Interactive Media & Services",
+    "date_added": "2021-09-20T00:00:00.000Z",
+    "founded_year": "1986"
+  },
+  {
+    "symbol": "MKC",
+    "security": "McCormick & Company",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2003-03-20T00:00:00.000Z",
+    "founded_year": "1889"
+  },
+  {
+    "symbol": "MCD",
+    "security": "McDonald's",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Restaurants",
+    "date_added": "1970-06-30T00:00:00.000Z",
+    "founded_year": "1940"
+  },
+  {
+    "symbol": "MCK",
+    "security": "McKesson",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Distributors",
+    "date_added": "1999-01-13T00:00:00.000Z",
+    "founded_year": "1833"
+  },
+  {
+    "symbol": "MDT",
+    "security": "Medtronic",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "1986-10-31T00:00:00.000Z",
+    "founded_year": "1949"
+  },
+  {
+    "symbol": "MRK",
+    "security": "Merck & Co.",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1891"
+  },
+  {
+    "symbol": "META",
+    "security": "Meta Platforms",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Interactive Media & Services",
+    "date_added": "2013-12-23T00:00:00.000Z",
+    "founded_year": "2004"
+  },
+  {
+    "symbol": "MET",
+    "security": "MetLife",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Life & Health Insurance",
+    "date_added": "2000-12-11T00:00:00.000Z",
+    "founded_year": "1868"
+  },
+  {
+    "symbol": "MTD",
+    "security": "Mettler Toledo",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2016-09-06T00:00:00.000Z",
+    "founded_year": "1945"
+  },
+  {
+    "symbol": "MGM",
+    "security": "MGM Resorts",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Casinos & Gaming",
+    "date_added": "2017-07-26T00:00:00.000Z",
+    "founded_year": "1986"
+  },
+  {
+    "symbol": "MCHP",
+    "security": "Microchip Technology",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2007-09-07T00:00:00.000Z",
+    "founded_year": "1989"
+  },
+  {
+    "symbol": "MU",
+    "security": "Micron Technology",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "1994-09-27T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "MSFT",
+    "security": "Microsoft",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Systems Software",
+    "date_added": "1994-06-01T00:00:00.000Z",
+    "founded_year": "1975"
+  },
+  {
+    "symbol": "MAA",
+    "security": "Mid-America Apartment Communities",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Multi-Family Residential REITs",
+    "date_added": "2016-12-02T00:00:00.000Z",
+    "founded_year": "1977"
+  },
+  {
+    "symbol": "MRNA",
+    "security": "Moderna",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2021-07-21T00:00:00.000Z",
+    "founded_year": "2010"
+  },
+  {
+    "symbol": "MHK",
+    "security": "Mohawk Industries",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Home Furnishings",
+    "date_added": "2013-12-23T00:00:00.000Z",
+    "founded_year": "1878"
+  },
+  {
+    "symbol": "MOH",
+    "security": "Molina Healthcare",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Managed Health Care",
+    "date_added": "2022-03-02T00:00:00.000Z",
+    "founded_year": "1980"
+  },
+  {
+    "symbol": "TAP",
+    "security": "Molson Coors Beverage Company",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Brewers",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "2005 (Molson 1786, Coors 1873)"
+  },
+  {
+    "symbol": "MDLZ",
+    "security": "Mondelez International",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2012-10-02T00:00:00.000Z",
+    "founded_year": "2012"
+  },
+  {
+    "symbol": "MPWR",
+    "security": "Monolithic Power Systems",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2021-02-12T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "MNST",
+    "security": "Monster Beverage",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Soft Drinks & Non-alcoholic Beverages",
+    "date_added": "2012-06-28T00:00:00.000Z",
+    "founded_year": "2012 (1935)"
+  },
+  {
+    "symbol": "MCO",
+    "security": "Moody's Corporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "1998-07-01T00:00:00.000Z",
+    "founded_year": "1909"
+  },
+  {
+    "symbol": "MS",
+    "security": "Morgan Stanley",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Investment Banking & Brokerage",
+    "date_added": "1993-07-29T00:00:00.000Z",
+    "founded_year": "1935"
+  },
+  {
+    "symbol": "MOS",
+    "security": "Mosaic Company (The)",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Fertilizers & Agricultural Chemicals",
+    "date_added": "2011-09-26T00:00:00.000Z",
+    "founded_year": "2004 (1865 / 1909)"
+  },
+  {
+    "symbol": "MSI",
+    "security": "Motorola Solutions",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Communications Equipment",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1928 (2011)"
+  },
+  {
+    "symbol": "MSCI",
+    "security": "MSCI",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2018-04-04T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "NDAQ",
+    "security": "Nasdaq, Inc.",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "2008-10-22T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "NTAP",
+    "security": "NetApp",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Hardware, Storage & Peripherals",
+    "date_added": "1999-06-25T00:00:00.000Z",
+    "founded_year": "1992"
+  },
+  {
+    "symbol": "NFLX",
+    "security": "Netflix",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Movies & Entertainment",
+    "date_added": "2010-12-20T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "NEM",
+    "security": "Newmont",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Gold",
+    "date_added": "1969-06-30T00:00:00.000Z",
+    "founded_year": "1921"
+  },
+  {
+    "symbol": "NWSA",
+    "security": "News Corp (Class A)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Publishing",
+    "date_added": "2013-08-01T00:00:00.000Z",
+    "founded_year": "2013 (News Corporation 1980)"
+  },
+  {
+    "symbol": "NWS",
+    "security": "News Corp (Class B)",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Publishing",
+    "date_added": "2015-09-18T00:00:00.000Z",
+    "founded_year": "2013 (News Corporation 1980)"
+  },
+  {
+    "symbol": "NEE",
+    "security": "NextEra Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1984 (1925)"
+  },
+  {
+    "symbol": "NKE",
+    "security": "Nike, Inc.",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel, Accessories & Luxury Goods",
+    "date_added": "1988-11-30T00:00:00.000Z",
+    "founded_year": "1964"
+  },
+  {
+    "symbol": "NI",
+    "security": "NiSource",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "2000-11-02T00:00:00.000Z",
+    "founded_year": "1912"
+  },
+  {
+    "symbol": "NDSN",
+    "security": "Nordson Corporation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2022-02-15T00:00:00.000Z",
+    "founded_year": "1935"
+  },
+  {
+    "symbol": "NSC",
+    "security": "Norfolk Southern Railway",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Rail Transportation",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1881/1894 (1980)"
+  },
+  {
+    "symbol": "NTRS",
+    "security": "Northern Trust",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "1998-01-30T00:00:00.000Z",
+    "founded_year": "1889"
+  },
+  {
+    "symbol": "NOC",
+    "security": "Northrop Grumman",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1994 (Northrop 1939, Grumman 1930)"
+  },
+  {
+    "symbol": "NCLH",
+    "security": "Norwegian Cruise Line Holdings",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "2017-10-13T00:00:00.000Z",
+    "founded_year": "2011 (1966)"
+  },
+  {
+    "symbol": "NRG",
+    "security": "NRG Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Independent Power Producers & Energy Traders",
+    "date_added": "2010-01-29T00:00:00.000Z",
+    "founded_year": "1992"
+  },
+  {
+    "symbol": "NUE",
+    "security": "Nucor",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Steel",
+    "date_added": "1985-04-30T00:00:00.000Z",
+    "founded_year": "1940"
+  },
+  {
+    "symbol": "NVDA",
+    "security": "Nvidia",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2001-11-30T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "NVR",
+    "security": "NVR, Inc.",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Homebuilding",
+    "date_added": "2019-09-26T00:00:00.000Z",
+    "founded_year": "1980"
+  },
+  {
+    "symbol": "NXPI",
+    "security": "NXP Semiconductors",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2021-03-22T00:00:00.000Z",
+    "founded_year": "1953"
+  },
+  {
+    "symbol": "ORLY",
+    "security": "O'Reilly Auto Parts",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automotive Retail",
+    "date_added": "2009-03-27T00:00:00.000Z",
+    "founded_year": "1957"
+  },
+  {
+    "symbol": "OXY",
+    "security": "Occidental Petroleum",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1920"
+  },
+  {
+    "symbol": "ODFL",
+    "security": "Old Dominion",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Cargo Ground Transportation",
+    "date_added": "2019-12-09T00:00:00.000Z",
+    "founded_year": "1934"
+  },
+  {
+    "symbol": "OMC",
+    "security": "Omnicom Group",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Advertising",
+    "date_added": "1997-12-31T00:00:00.000Z",
+    "founded_year": "1986"
+  },
+  {
+    "symbol": "ON",
+    "security": "ON Semiconductor",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2022-06-21T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "OKE",
+    "security": "ONEOK",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Storage & Transportation",
+    "date_added": "2010-03-15T00:00:00.000Z",
+    "founded_year": "1906"
+  },
+  {
+    "symbol": "ORCL",
+    "security": "Oracle Corporation",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "1989-08-31T00:00:00.000Z",
+    "founded_year": "1977"
+  },
+  {
+    "symbol": "OTIS",
+    "security": "Otis Worldwide",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2020-04-03T00:00:00.000Z",
+    "founded_year": "2020 (1853, United Technologies spinoff)"
+  },
+  {
+    "symbol": "PCAR",
+    "security": "Paccar",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+    "date_added": "1980-12-31T00:00:00.000Z",
+    "founded_year": "1905"
+  },
+  {
+    "symbol": "PKG",
+    "security": "Packaging Corporation of America",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Paper & Plastic Packaging Products & Materials",
+    "date_added": "2017-07-26T00:00:00.000Z",
+    "founded_year": "1959"
+  },
+  {
+    "symbol": "PANW",
+    "security": "Palo Alto Networks",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Systems Software",
+    "date_added": "2023-06-20T00:00:00.000Z",
+    "founded_year": "2005"
+  },
+  {
+    "symbol": "PARA",
+    "security": "Paramount Global",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Movies & Entertainment",
+    "date_added": "1994-09-30T00:00:00.000Z",
+    "founded_year": "2019 (Paramount Pictures 1912)"
+  },
+  {
+    "symbol": "PH",
+    "security": "Parker Hannifin",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "1985-11-30T00:00:00.000Z",
+    "founded_year": "1917"
+  },
+  {
+    "symbol": "PAYX",
+    "security": "Paychex",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Human Resource & Employment Services",
+    "date_added": "1998-10-01T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "PAYC",
+    "security": "Paycom",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Human Resource & Employment Services",
+    "date_added": "2020-01-28T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "PYPL",
+    "security": "PayPal",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2015-07-20T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "PNR",
+    "security": "Pentair",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2012-10-01T00:00:00.000Z",
+    "founded_year": "1966"
+  },
+  {
+    "symbol": "PEP",
+    "security": "PepsiCo",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Soft Drinks & Non-alcoholic Beverages",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1898"
+  },
+  {
+    "symbol": "PFE",
+    "security": "Pfizer",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1849"
+  },
+  {
+    "symbol": "PCG",
+    "security": "PG&E Corporation",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "2022-10-03T00:00:00.000Z",
+    "founded_year": "1905"
+  },
+  {
+    "symbol": "PM",
+    "security": "Philip Morris International",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Tobacco",
+    "date_added": "2008-03-31T00:00:00.000Z",
+    "founded_year": "2008 (1847)"
+  },
+  {
+    "symbol": "PSX",
+    "security": "Phillips 66",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Refining & Marketing",
+    "date_added": "2012-05-01T00:00:00.000Z",
+    "founded_year": "2012 (1917)"
+  },
+  {
+    "symbol": "PNW",
+    "security": "Pinnacle West",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1999-10-04T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "PXD",
+    "security": "Pioneer Natural Resources",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Exploration & Production",
+    "date_added": "2008-09-24T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "PNC",
+    "security": "PNC Financial Services",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "1988-04-30T00:00:00.000Z",
+    "founded_year": "1845"
+  },
+  {
+    "symbol": "POOL",
+    "security": "Pool Corporation",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Distributors",
+    "date_added": "2020-10-07T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "PPG",
+    "security": "PPG Industries",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1883"
+  },
+  {
+    "symbol": "PPL",
+    "security": "PPL Corporation",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "2001-10-01T00:00:00.000Z",
+    "founded_year": "1920"
+  },
+  {
+    "symbol": "PFG",
+    "security": "Principal Financial Group",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Life & Health Insurance",
+    "date_added": "2002-07-22T00:00:00.000Z",
+    "founded_year": "1879"
+  },
+  {
+    "symbol": "PG",
+    "security": "Procter & Gamble",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Personal Care Products",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1837"
+  },
+  {
+    "symbol": "PGR",
+    "security": "Progressive Corporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "1997-08-04T00:00:00.000Z",
+    "founded_year": "1937"
+  },
+  {
+    "symbol": "PLD",
+    "security": "Prologis",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Industrial REITs",
+    "date_added": "2003-07-17T00:00:00.000Z",
+    "founded_year": "1983"
+  },
+  {
+    "symbol": "PRU",
+    "security": "Prudential Financial",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Life & Health Insurance",
+    "date_added": "2002-07-22T00:00:00.000Z",
+    "founded_year": "1875"
+  },
+  {
+    "symbol": "PEG",
+    "security": "Public Service Enterprise Group",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1903"
+  },
+  {
+    "symbol": "PTC",
+    "security": "PTC",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2021-04-20T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "PSA",
+    "security": "Public Storage",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Self-Storage REITs",
+    "date_added": "2005-08-19T00:00:00.000Z",
+    "founded_year": "1972"
+  },
+  {
+    "symbol": "PHM",
+    "security": "PulteGroup",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Homebuilding",
+    "date_added": "1984-04-30T00:00:00.000Z",
+    "founded_year": "1956"
+  },
+  {
+    "symbol": "QRVO",
+    "security": "Qorvo",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2015-06-11T00:00:00.000Z",
+    "founded_year": "2015"
+  },
+  {
+    "symbol": "PWR",
+    "security": "Quanta Services",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Construction & Engineering",
+    "date_added": "2009-07-01T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "QCOM",
+    "security": "Qualcomm",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "1999-07-22T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "DGX",
+    "security": "Quest Diagnostics",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Services",
+    "date_added": "2002-12-12T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "RL",
+    "security": "Ralph Lauren Corporation",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel, Accessories & Luxury Goods",
+    "date_added": "2007-02-02T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "RJF",
+    "security": "Raymond James",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Investment Banking & Brokerage",
+    "date_added": "2017-03-20T00:00:00.000Z",
+    "founded_year": "1962"
+  },
+  {
+    "symbol": "RTX",
+    "security": "RTX Corporation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1922"
+  },
+  {
+    "symbol": "O",
+    "security": "Realty Income",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Retail REITs",
+    "date_added": "2015-04-07T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "REG",
+    "security": "Regency Centers",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Retail REITs",
+    "date_added": "2017-03-02T00:00:00.000Z",
+    "founded_year": "1963"
+  },
+  {
+    "symbol": "REGN",
+    "security": "Regeneron",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2013-05-01T00:00:00.000Z",
+    "founded_year": "1988"
+  },
+  {
+    "symbol": "RF",
+    "security": "Regions Financial Corporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "1998-08-28T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "RSG",
+    "security": "Republic Services",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Environmental & Facilities Services",
+    "date_added": "2008-12-05T00:00:00.000Z",
+    "founded_year": "1998 (1981)"
+  },
+  {
+    "symbol": "RMD",
+    "security": "ResMed",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2017-07-26T00:00:00.000Z",
+    "founded_year": "1989"
+  },
+  {
+    "symbol": "RVTY",
+    "security": "Revvity",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "1985-05-31T00:00:00.000Z",
+    "founded_year": "1937"
+  },
+  {
+    "symbol": "RHI",
+    "security": "Robert Half",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Human Resource & Employment Services",
+    "date_added": "2000-12-05T00:00:00.000Z",
+    "founded_year": "1948"
+  },
+  {
+    "symbol": "ROK",
+    "security": "Rockwell Automation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Electrical Components & Equipment",
+    "date_added": "2000-03-12T00:00:00.000Z",
+    "founded_year": "1903"
+  },
+  {
+    "symbol": "ROL",
+    "security": "Rollins, Inc.",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Environmental & Facilities Services",
+    "date_added": "2018-10-01T00:00:00.000Z",
+    "founded_year": "1948"
+  },
+  {
+    "symbol": "ROP",
+    "security": "Roper Technologies",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Equipment & Instruments",
+    "date_added": "2009-12-23T00:00:00.000Z",
+    "founded_year": "1981"
+  },
+  {
+    "symbol": "ROST",
+    "security": "Ross Stores",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel Retail",
+    "date_added": "2009-12-21T00:00:00.000Z",
+    "founded_year": "1982"
+  },
+  {
+    "symbol": "RCL",
+    "security": "Royal Caribbean Group",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Hotels, Resorts & Cruise Lines",
+    "date_added": "2014-12-05T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "SPGI",
+    "security": "S&P Global",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Financial Exchanges & Data",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1917"
+  },
+  {
+    "symbol": "CRM",
+    "security": "Salesforce",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2008-09-15T00:00:00.000Z",
+    "founded_year": "1999"
+  },
+  {
+    "symbol": "SBAC",
+    "security": "SBA Communications",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Telecom Tower REITs",
+    "date_added": "2017-09-01T00:00:00.000Z",
+    "founded_year": "1989"
+  },
+  {
+    "symbol": "SLB",
+    "security": "Schlumberger",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Equipment & Services",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1926"
+  },
+  {
+    "symbol": "STX",
+    "security": "Seagate Technology",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Hardware, Storage & Peripherals",
+    "date_added": "2012-07-02T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "SRE",
+    "security": "Sempra Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "2017-03-17T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "NOW",
+    "security": "ServiceNow",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Systems Software",
+    "date_added": "2019-11-21T00:00:00.000Z",
+    "founded_year": "2003"
+  },
+  {
+    "symbol": "SHW",
+    "security": "Sherwin-Williams",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Specialty Chemicals",
+    "date_added": "1964-06-30T00:00:00.000Z",
+    "founded_year": "1866"
+  },
+  {
+    "symbol": "SPG",
+    "security": "Simon Property Group",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Retail REITs",
+    "date_added": "2002-06-26T00:00:00.000Z",
+    "founded_year": "2003"
+  },
+  {
+    "symbol": "SWKS",
+    "security": "Skyworks Solutions",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2015-03-12T00:00:00.000Z",
+    "founded_year": "2002"
+  },
+  {
+    "symbol": "SJM",
+    "security": "J.M. Smucker Company (The)",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2008-11-06T00:00:00.000Z",
+    "founded_year": "1897"
+  },
+  {
+    "symbol": "SNA",
+    "security": "Snap-on",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "1982-09-30T00:00:00.000Z",
+    "founded_year": "1920"
+  },
+  {
+    "symbol": "SO",
+    "security": "Southern Company",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1945"
+  },
+  {
+    "symbol": "LUV",
+    "security": "Southwest Airlines",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Passenger Airlines",
+    "date_added": "1994-07-01T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "SWK",
+    "security": "Stanley Black & Decker",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "1982-09-30T00:00:00.000Z",
+    "founded_year": "1843"
+  },
+  {
+    "symbol": "SBUX",
+    "security": "Starbucks",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Restaurants",
+    "date_added": "2000-06-07T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "STT",
+    "security": "State Street Corporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "2003-03-14T00:00:00.000Z",
+    "founded_year": "1792"
+  },
+  {
+    "symbol": "STLD",
+    "security": "Steel Dynamics",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Steel",
+    "date_added": "2022-12-22T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "STE",
+    "security": "Steris",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2019-12-23T00:00:00.000Z",
+    "founded_year": "1985"
+  },
+  {
+    "symbol": "SYK",
+    "security": "Stryker Corporation",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2000-12-12T00:00:00.000Z",
+    "founded_year": "1941"
+  },
+  {
+    "symbol": "SYF",
+    "security": "Synchrony Financial",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Consumer Finance",
+    "date_added": "2015-11-18T00:00:00.000Z",
+    "founded_year": "2003"
+  },
+  {
+    "symbol": "SNPS",
+    "security": "Synopsys",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2017-03-16T00:00:00.000Z",
+    "founded_year": "1986"
+  },
+  {
+    "symbol": "SYY",
+    "security": "Sysco",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Food Distributors",
+    "date_added": "1986-12-31T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "TMUS",
+    "security": "T-Mobile US",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Wireless Telecommunication Services",
+    "date_added": "2019-07-15T00:00:00.000Z",
+    "founded_year": "1994"
+  },
+  {
+    "symbol": "TROW",
+    "security": "T. Rowe Price",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Asset Management & Custody Banks",
+    "date_added": "2019-07-29T00:00:00.000Z",
+    "founded_year": "1937"
+  },
+  {
+    "symbol": "TTWO",
+    "security": "Take-Two Interactive",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Interactive Home Entertainment",
+    "date_added": "2018-03-19T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "TPR",
+    "security": "Tapestry, Inc.",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel, Accessories & Luxury Goods",
+    "date_added": "2004-09-01T00:00:00.000Z",
+    "founded_year": "2017"
+  },
+  {
+    "symbol": "TRGP",
+    "security": "Targa Resources",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Storage & Transportation",
+    "date_added": "2022-10-12T00:00:00.000Z",
+    "founded_year": "2005"
+  },
+  {
+    "symbol": "TGT",
+    "security": "Target Corporation",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Consumer Staples Merchandise Retail",
+    "date_added": "1976-12-31T00:00:00.000Z",
+    "founded_year": "1902"
+  },
+  {
+    "symbol": "TEL",
+    "security": "TE Connectivity",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Manufacturing Services",
+    "date_added": "2011-10-17T00:00:00.000Z",
+    "founded_year": "2007"
+  },
+  {
+    "symbol": "TDY",
+    "security": "Teledyne Technologies",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Equipment & Instruments",
+    "date_added": "2020-06-22T00:00:00.000Z",
+    "founded_year": "1960"
+  },
+  {
+    "symbol": "TFX",
+    "security": "Teleflex",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2019-01-18T00:00:00.000Z",
+    "founded_year": "1943"
+  },
+  {
+    "symbol": "TER",
+    "security": "Teradyne",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductor Materials & Equipment",
+    "date_added": "2020-09-21T00:00:00.000Z",
+    "founded_year": "1960"
+  },
+  {
+    "symbol": "TSLA",
+    "security": "Tesla, Inc.",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Automobile Manufacturers",
+    "date_added": "2020-12-21T00:00:00.000Z",
+    "founded_year": "2003"
+  },
+  {
+    "symbol": "TXN",
+    "security": "Texas Instruments",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Semiconductors",
+    "date_added": "2001-03-12T00:00:00.000Z",
+    "founded_year": "1930"
+  },
+  {
+    "symbol": "TXT",
+    "security": "Textron",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "1978-12-31T00:00:00.000Z",
+    "founded_year": "1923"
+  },
+  {
+    "symbol": "TMO",
+    "security": "Thermo Fisher Scientific",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2004-08-03T00:00:00.000Z",
+    "founded_year": "2006 (1902)"
+  },
+  {
+    "symbol": "TJX",
+    "security": "TJX Companies",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel Retail",
+    "date_added": "1985-09-30T00:00:00.000Z",
+    "founded_year": "1987"
+  },
+  {
+    "symbol": "TSCO",
+    "security": "Tractor Supply",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Specialty Stores",
+    "date_added": "2014-01-24T00:00:00.000Z",
+    "founded_year": "1938"
+  },
+  {
+    "symbol": "TT",
+    "security": "Trane Technologies",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Building Products",
+    "date_added": "2010-11-17T00:00:00.000Z",
+    "founded_year": "1871"
+  },
+  {
+    "symbol": "TDG",
+    "security": "TransDigm Group",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Aerospace & Defense",
+    "date_added": "2016-06-03T00:00:00.000Z",
+    "founded_year": "1993"
+  },
+  {
+    "symbol": "TRV",
+    "security": "Travelers Companies (The)",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "2002-08-21T00:00:00.000Z",
+    "founded_year": "1853"
+  },
+  {
+    "symbol": "TRMB",
+    "security": "Trimble Inc.",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Equipment & Instruments",
+    "date_added": "2021-01-21T00:00:00.000Z",
+    "founded_year": "1978"
+  },
+  {
+    "symbol": "TFC",
+    "security": "Truist",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "1997-12-04T00:00:00.000Z",
+    "founded_year": "1872"
+  },
+  {
+    "symbol": "TYL",
+    "security": "Tyler Technologies",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Application Software",
+    "date_added": "2020-06-22T00:00:00.000Z",
+    "founded_year": "1966"
+  },
+  {
+    "symbol": "TSN",
+    "security": "Tyson Foods",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Packaged Foods & Meats",
+    "date_added": "2005-08-10T00:00:00.000Z",
+    "founded_year": "1935"
+  },
+  {
+    "symbol": "USB",
+    "security": "U.S. Bank",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1999-11-01T00:00:00.000Z",
+    "founded_year": "1968"
+  },
+  {
+    "symbol": "UBER",
+    "security": "Uber",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Passenger Ground Transportation",
+    "date_added": "2023-12-18T00:00:00.000Z",
+    "founded_year": "2009"
+  },
+  {
+    "symbol": "UDR",
+    "security": "UDR, Inc.",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Multi-Family Residential REITs",
+    "date_added": "2016-03-07T00:00:00.000Z",
+    "founded_year": "1972"
+  },
+  {
+    "symbol": "ULTA",
+    "security": "Ulta Beauty",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Specialty Stores",
+    "date_added": "2016-04-18T00:00:00.000Z",
+    "founded_year": "1990"
+  },
+  {
+    "symbol": "UNP",
+    "security": "Union Pacific Corporation",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Rail Transportation",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1862"
+  },
+  {
+    "symbol": "UAL",
+    "security": "United Airlines Holdings",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Passenger Airlines",
+    "date_added": "2015-09-03T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "UPS",
+    "security": "United Parcel Service",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Air Freight & Logistics",
+    "date_added": "2002-07-22T00:00:00.000Z",
+    "founded_year": "1907"
+  },
+  {
+    "symbol": "URI",
+    "security": "United Rentals",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Trading Companies & Distributors",
+    "date_added": "2014-09-20T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "UNH",
+    "security": "UnitedHealth Group",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Managed Health Care",
+    "date_added": "1994-07-01T00:00:00.000Z",
+    "founded_year": "1977"
+  },
+  {
+    "symbol": "UHS",
+    "security": "Universal Health Services",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Facilities",
+    "date_added": "2014-09-20T00:00:00.000Z",
+    "founded_year": "1979"
+  },
+  {
+    "symbol": "VLO",
+    "security": "Valero Energy",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Refining & Marketing",
+    "date_added": "2002-12-20T00:00:00.000Z",
+    "founded_year": "1980"
+  },
+  {
+    "symbol": "VTR",
+    "security": "Ventas",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Health Care REITs",
+    "date_added": "2009-03-04T00:00:00.000Z",
+    "founded_year": "1998"
+  },
+  {
+    "symbol": "VLTO",
+    "security": "Veralto",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Environmental & Facilities Services",
+    "date_added": "2023-10-02T00:00:00.000Z",
+    "founded_year": "2023 (Danaher spinoff)"
+  },
+  {
+    "symbol": "VRSN",
+    "security": "Verisign",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Internet Services & Infrastructure",
+    "date_added": "2006-02-01T00:00:00.000Z",
+    "founded_year": "1995"
+  },
+  {
+    "symbol": "VRSK",
+    "security": "Verisk",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Research & Consulting Services",
+    "date_added": "2015-10-08T00:00:00.000Z",
+    "founded_year": "1971"
+  },
+  {
+    "symbol": "VZ",
+    "security": "Verizon",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Integrated Telecommunication Services",
+    "date_added": "1983-11-30T00:00:00.000Z",
+    "founded_year": "1983 (1877)"
+  },
+  {
+    "symbol": "VRTX",
+    "security": "Vertex Pharmaceuticals",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Biotechnology",
+    "date_added": "2013-09-23T00:00:00.000Z",
+    "founded_year": "1989"
+  },
+  {
+    "symbol": "VFC",
+    "security": "VF Corporation",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Apparel, Accessories & Luxury Goods",
+    "date_added": "1979-06-30T00:00:00.000Z",
+    "founded_year": "1899"
+  },
+  {
+    "symbol": "VTRS",
+    "security": "Viatris",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "2004-04-23T00:00:00.000Z",
+    "founded_year": "1961"
+  },
+  {
+    "symbol": "VICI",
+    "security": "Vici Properties",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Hotel & Resort REITs",
+    "date_added": "2022-06-08T00:00:00.000Z",
+    "founded_year": "2017"
+  },
+  {
+    "symbol": "V",
+    "security": "Visa Inc.",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Transaction & Payment Processing Services",
+    "date_added": "2009-12-21T00:00:00.000Z",
+    "founded_year": "1958"
+  },
+  {
+    "symbol": "VMC",
+    "security": "Vulcan Materials Company",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Construction Materials",
+    "date_added": "1999-06-30T00:00:00.000Z",
+    "founded_year": "1909"
+  },
+  {
+    "symbol": "WRB",
+    "security": "Berkley",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Property & Casualty Insurance",
+    "date_added": "2019-12-05T00:00:00.000Z",
+    "founded_year": "1967"
+  },
+  {
+    "symbol": "WAB",
+    "security": "Wabtec",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+    "date_added": "2019-02-27T00:00:00.000Z",
+    "founded_year": "1999 (1869)"
+  },
+  {
+    "symbol": "WBA",
+    "security": "Walgreens Boots Alliance",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Drug Retail",
+    "date_added": "1979-12-31T00:00:00.000Z",
+    "founded_year": "2014"
+  },
+  {
+    "symbol": "WMT",
+    "security": "Walmart",
+    "gics_sector": "Consumer Staples",
+    "gics_sub_industry": "Consumer Staples Merchandise Retail",
+    "date_added": "1982-08-31T00:00:00.000Z",
+    "founded_year": "1962"
+  },
+  {
+    "symbol": "DIS",
+    "security": "Walt Disney",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Movies & Entertainment",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1923"
+  },
+  {
+    "symbol": "WBD",
+    "security": "Warner Bros. Discovery",
+    "gics_sector": "Communication Services",
+    "gics_sub_industry": "Broadcasting",
+    "date_added": "2022-04-11T00:00:00.000Z",
+    "founded_year": "2022 (Warner Bros. 1923)"
+  },
+  {
+    "symbol": "WM",
+    "security": "Waste Management",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Environmental & Facilities Services",
+    "date_added": "1998-08-31T00:00:00.000Z",
+    "founded_year": "1968"
+  },
+  {
+    "symbol": "WAT",
+    "security": "Waters Corporation",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Life Sciences Tools & Services",
+    "date_added": "2002-01-02T00:00:00.000Z",
+    "founded_year": "1958"
+  },
+  {
+    "symbol": "WEC",
+    "security": "WEC Energy Group",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Electric Utilities",
+    "date_added": "2008-10-31T00:00:00.000Z",
+    "founded_year": "1896"
+  },
+  {
+    "symbol": "WFC",
+    "security": "Wells Fargo",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Diversified Banks",
+    "date_added": "1976-06-30T00:00:00.000Z",
+    "founded_year": "1852"
+  },
+  {
+    "symbol": "WELL",
+    "security": "Welltower",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Health Care REITs",
+    "date_added": "2009-01-30T00:00:00.000Z",
+    "founded_year": "1970"
+  },
+  {
+    "symbol": "WST",
+    "security": "West Pharmaceutical Services",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Supplies",
+    "date_added": "2020-05-22T00:00:00.000Z",
+    "founded_year": "1923"
+  },
+  {
+    "symbol": "WDC",
+    "security": "Western Digital",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Technology Hardware, Storage & Peripherals",
+    "date_added": "2009-07-01T00:00:00.000Z",
+    "founded_year": "1970"
+  },
+  {
+    "symbol": "WRK",
+    "security": "WestRock",
+    "gics_sector": "Materials",
+    "gics_sub_industry": "Paper & Plastic Packaging Products & Materials",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "2015"
+  },
+  {
+    "symbol": "WY",
+    "security": "Weyerhaeuser",
+    "gics_sector": "Real Estate",
+    "gics_sub_industry": "Timber REITs",
+    "date_added": "1979-10-01T00:00:00.000Z",
+    "founded_year": "1900"
+  },
+  {
+    "symbol": "WHR",
+    "security": "Whirlpool Corporation",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Household Appliances",
+    "date_added": "1958-03-31T00:00:00.000Z",
+    "founded_year": "1911"
+  },
+  {
+    "symbol": "WMB",
+    "security": "Williams Companies",
+    "gics_sector": "Energy",
+    "gics_sub_industry": "Oil & Gas Storage & Transportation",
+    "date_added": "1975-03-31T00:00:00.000Z",
+    "founded_year": "1908"
+  },
+  {
+    "symbol": "WTW",
+    "security": "Willis Towers Watson",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Insurance Brokers",
+    "date_added": "2016-01-05T00:00:00.000Z",
+    "founded_year": "2016"
+  },
+  {
+    "symbol": "GWW",
+    "security": "W. W. Grainger",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "1981-06-30T00:00:00.000Z",
+    "founded_year": "1927"
+  },
+  {
+    "symbol": "WYNN",
+    "security": "Wynn Resorts",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Casinos & Gaming",
+    "date_added": "2008-11-14T00:00:00.000Z",
+    "founded_year": "2002"
+  },
+  {
+    "symbol": "XEL",
+    "security": "Xcel Energy",
+    "gics_sector": "Utilities",
+    "gics_sub_industry": "Multi-Utilities",
+    "date_added": "1957-03-04T00:00:00.000Z",
+    "founded_year": "1909"
+  },
+  {
+    "symbol": "XYL",
+    "security": "Xylem Inc.",
+    "gics_sector": "Industrials",
+    "gics_sub_industry": "Industrial Machinery & Supplies & Components",
+    "date_added": "2011-11-01T00:00:00.000Z",
+    "founded_year": "2011"
+  },
+  {
+    "symbol": "YUM",
+    "security": "Yum! Brands",
+    "gics_sector": "Consumer Discretionary",
+    "gics_sub_industry": "Restaurants",
+    "date_added": "1997-10-06T00:00:00.000Z",
+    "founded_year": "1997"
+  },
+  {
+    "symbol": "ZBRA",
+    "security": "Zebra Technologies",
+    "gics_sector": "Information Technology",
+    "gics_sub_industry": "Electronic Equipment & Instruments",
+    "date_added": "2019-12-23T00:00:00.000Z",
+    "founded_year": "1969"
+  },
+  {
+    "symbol": "ZBH",
+    "security": "Zimmer Biomet",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Health Care Equipment",
+    "date_added": "2001-08-07T00:00:00.000Z",
+    "founded_year": "1927"
+  },
+  {
+    "symbol": "ZION",
+    "security": "Zions Bancorporation",
+    "gics_sector": "Financials",
+    "gics_sub_industry": "Regional Banks",
+    "date_added": "2001-06-22T00:00:00.000Z",
+    "founded_year": "1873"
+  },
+  {
+    "symbol": "ZTS",
+    "security": "Zoetis",
+    "gics_sector": "Health Care",
+    "gics_sub_industry": "Pharmaceuticals",
+    "date_added": "2013-06-21T00:00:00.000Z",
+    "founded_year": "1952"
+  }
+]
